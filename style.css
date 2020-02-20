@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+  }
+  h1{
+    font-family:Sans-serif;
+    font-size:40px;
+    background-color:grey;
+  } 
+  h2{
+    color: #006400;
+  }
+  #image{
+    height:400px;
+    max-width:100%;
+  }
+  #img-caption{
+    font-family: sans-serif;
+  }
+  p{
+    font-family:Helvetica;
+    background-color:grey;
+  }
+  .tribute-link{
+   font-size:20px; 
+  }
